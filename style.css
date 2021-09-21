@@ -12,3 +12,8 @@ body { background-color: #808080;}
 }
 
 font-family: 'Yanone Kaffeesatz', sans-serif;
+
+body {
+ background-image: url("background.jpg");
+ background-color: #cccccc;
+}
