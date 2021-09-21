@@ -3,3 +3,10 @@ body { background-color: #000000;}
 #nav-table { width: 800px;}
 
 #nav-th {width: 200px; text-align:center;}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
